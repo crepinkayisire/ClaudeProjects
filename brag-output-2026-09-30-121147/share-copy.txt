@@ -1,0 +1,1 @@
+Simba+ is now live. A live checkout code that refreshes at the till, tiers from Member to Platinum, and rewards that reach past the supermarket shelf — Java House, Kigali Serena, RwandAir — all built on Kayko's loyalty infrastructure.
